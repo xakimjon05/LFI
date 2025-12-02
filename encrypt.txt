@@ -1,0 +1,1 @@
+Shifrlash ma’lumotni maxfiy saqlash uchun uning ko‘rinishini o‘zgartiradigan xavfsizlik usulidir. U orqali fayllar va xabarlar faqat ruxsatga ega foydalanuvchilar tomonidan o‘qilishi mumkin bo‘ladi.
